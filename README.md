@@ -12,9 +12,21 @@ Atualmente estou cursando ADS e aprofundando minha base em software para constru
 
 ##
 
-<div> 
-  <a href="https://instagram.com/audiliver" target="_blank"><img src="https://img.shields.io/badge/Instagram-f74530?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/audiliver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/audiliver" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  <a href="https://audiliverlabs.com" target="_blank"><img src="https://img.shields.io/badge/-Audiliver Labs-f2e557?&style=for-the-badge&logoColor=black" target="_blank"></a> 
+<div>
+  <a href="https://instagram.com/audilever" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-f74530?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/audilever" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://open.spotify.com/user/audilever" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+
+  <a href="https://audileverlabs.com" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Audiliver%20Labs-f2e557?style=for-the-badge&logoColor=black">
+  </a>
 </div>
+
