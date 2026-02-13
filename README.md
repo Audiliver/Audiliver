@@ -5,19 +5,19 @@ Atualmente estou cursando ADS e aprofundando minha base em software para constru
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Audiliver-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Audiliver-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Audiliver-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
 
 <div>
-  <a href="https://instagram.com/audilever" rel="noopener noreferrer">
+  <a href="https://instagram.com/audiliver" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-f74530?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/audilever" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/audiliver" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
@@ -25,7 +25,7 @@ Atualmente estou cursando ADS e aprofundando minha base em software para constru
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 
-  <a href="https://audileverlabs.com" rel="noopener noreferrer">
+  <a href="https://audiliverlabs.com" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Audiliver%20Labs-f2e557?style=for-the-badge&logoColor=black">
   </a>
 </div>
